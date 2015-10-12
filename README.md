@@ -1,2 +1,2 @@
-# Game-2
+# Refuge
 Refuge Game, check google doc for more detail.
